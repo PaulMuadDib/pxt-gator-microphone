@@ -1,7 +1,7 @@
 {
     "name": "gatorMicrophone",
     "version": "1.0.20",
-    "description": "SparkFun gator:Microphone Gate and Envelope Sensor",
+    "description": "SparkFun gator:Microphone Gate and Envelope Sensor with Sampling Frequency @ 3300 Hz",
     "license": "MIT",
     "dependencies": {
         "core": "*"
