@@ -85,7 +85,7 @@ static const char ADS1015_POINTER_HITHRESH     = (0x03);
 
 uint16_t _mode = ADS1015_CONFIG_MODE_CONT;
 uint16_t _gain = ADS1015_CONFIG_PGA_2;
-uint16_t _sampleRate = ADS1015_CONFIG_RATE_1600HZ;
+uint16_t _sampleRate = ADS1015_CONFIG_RATE_3300HZ;
 
 //Returns true if I2C device ack's
 bool ADS1015::isConnected()
